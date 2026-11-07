@@ -1,5 +1,5 @@
 public class helloworld {
   public static void main(String[] args) {
-        System.out.println("hello,BBB");
+        System.out.println("hello,分支功能");
     }
 }
